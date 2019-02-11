@@ -15,7 +15,7 @@ public class Try1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int x=5;
+        int x=6;
         int y=10;
         int z;
         z=x+y;
