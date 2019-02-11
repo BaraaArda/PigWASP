@@ -20,6 +20,8 @@ public class Try1 {
         int z;
         z=x+y;
         System.out.println("Hello");
+        
+        
         System.out.println(z);
         
         // TODO code application logic here
